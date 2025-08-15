@@ -1,7 +1,3 @@
-Here is a descriptive README for your repository "sc_genome_resources":
-
----
-
 # sc_genome_resources
 
 The Simplest Bash Toolkit for Genome Download & STAR Index Generation
